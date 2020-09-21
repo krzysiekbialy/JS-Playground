@@ -1,2 +1,1 @@
-# React Starter 
 # JS-Playground
